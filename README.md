@@ -7,7 +7,7 @@
 > #### INSTALASI
 > - Minimal versi `PHP` 8
 > - LARAVEL 10.2.3
->   ```Composer Create-project laravel\laravel=v10.0.3 laravel-collection```
+>   ```Composer Create-project laravel\laravel=v10.0.3 laravel-database```
 > - XAMPP
 ---
 > #### CARA MENJALANKAN PROGRAM
